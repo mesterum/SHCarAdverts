@@ -13,9 +13,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
@@ -29,6 +27,6 @@
       "favicon": "./app/assets/favicon.png"
     },
     "sdkVersion": "40.0.0",
-    "description": ""
+    "description": "A part of a mobile app for managing submissions of second-hand car adverts to a newspaper"
   }
 }
